@@ -42,14 +42,12 @@ img {
 
 a {
   text-decoration:underline;
-  color:#0D090A;
   font-size: 20px;
 }
 
 a:hover {
   font-weight:bold;
   background-color: #49B3CC;
-  color:#BD908B;
   opacity:0.7;
 }
 
