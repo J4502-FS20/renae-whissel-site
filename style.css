@@ -11,9 +11,15 @@ h1 {
   font-family: 'Handlee', cursive;
 }
 
-h2, h3 {
+h2 {
   color:#B0431C;
-  background-color:#BD908B;
+  background-color:##EDD8D6;
+  font-weight: bold;
+  font-family: 'Lora', serif;
+}
+
+h3 {
+  color:#B0431C;
   font-weight: bold;
   font-family: 'Lora', serif;
 }
