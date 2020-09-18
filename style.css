@@ -12,7 +12,7 @@ h1 {
 }
 
 h2, h3 {
-  color:#B0431C
+  color:#B0431C;
   font-weight: bold;
   font-family: 'Lora', serif;
 }
@@ -35,15 +35,14 @@ img {
 
 a {
   text-decoration:underline;
-  color:##0D090A;
+  color:#0D090A;
   font-size: 20px;
-
 }
 
 a:hover {
   font-weight:bold;
   background-color: #49B3CC;
-  color:##BD908B;
+  color:#BD908B;
   opacity:0.7;
 }
 
@@ -52,11 +51,11 @@ a:hover {
     background-color:#FAE8CF;
     font-family: 'Montserrat', sans-serif;
     Padding: 15px;
-    Max-width: 500px
+    Max-width: 500px;
     margin:auto;
 }
 
 #joke p {
-  font-size: 18px
+  font-size: 18px;
   color:#BD908B
 }
