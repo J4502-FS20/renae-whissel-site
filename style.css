@@ -13,6 +13,7 @@ h1 {
 
 h2, h3 {
   color:#B0431C;
+  background-color:#BD908B;
   font-weight: bold;
   font-family: 'Lora', serif;
 }
@@ -57,5 +58,4 @@ a:hover {
 
 #joke p {
   font-size: 18px;
-  color:#
 }
