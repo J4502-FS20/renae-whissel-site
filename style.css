@@ -29,19 +29,21 @@ ul {
 }
 
 img {
+  width:50%;
+  min-width: 250px;
   max-width: 450px
-  min-width: 250 px;
 }
 
 #joke {
     border: 2px solid #BD908B;
     background-color:#FAE8CF;
     font-family: 'Indie Flower', cursive;
-    Padding: 20px;
+    Padding: 15px;
     Max-width: 500px
-    Margin: auto;
+    Margin:auto;
 }
 
 #joke p {
+  font-size: 18px
   color:#BD908B
 }
