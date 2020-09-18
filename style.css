@@ -1,7 +1,25 @@
 Body {
     background-color:#FAE8CF;
     font-family: 'Montserrat', sans-serif;
-    //text-align: center;
+    text-align: center;
+}
+/*Header section*/
+h1 {
+  h1 {
+    font-size: 50px;
+    color:#BD908B;
+    font-weight: bold;
+  }
+}
+h2, h3 {
+  color:#BD908B;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+}
+
+p {
+  font-size: 24px;
+  padding:5px;
 }
 h2 {
            color:#521945;
@@ -18,10 +36,12 @@ img {
 #joke {
     border: 2px solid #BD908B;
     background-color:#FAE8CF;
-    font-family: ‘helvetica’, ‘arial’
-    Padding: 15px;
+    font-family: 'Indie Flower', cursive;
+    Padding: 20px;
     Max-width: 500px
     Margin: auto;
 }
 
 #joke p {
+  color:#BD908B
+}
