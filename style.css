@@ -33,6 +33,20 @@ img {
   border:none;
 }
 
+a {
+  text-decoration:underline;
+  color:##0D090A;
+  font-size: 20px;
+
+}
+
+a:hover {
+  font-weight:bold;
+  background-color: #49B3CC;
+  color:##BD908B;
+  opacity:0.7;
+}
+
 #joke {
     border: 2px solid #BD908B;
     background-color:#FAE8CF;
