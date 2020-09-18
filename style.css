@@ -1,0 +1,27 @@
+Body {
+    background-color:#FAE8CF;
+    font-family: 'Montserrat', sans-serif;
+    //text-align: center;
+}
+h2 {
+           color:#521945;
+       }
+ul {
+    List-style-type: none;
+}
+
+img {
+  max-width: 450px
+  min-width: 250 px;
+}
+
+#joke {
+    border: 2px solid #BD908B;
+    background-color:#FAE8CF;
+    font-family: ‘helvetica’, ‘arial’
+    Padding: 15px;
+    Max-width: 500px
+    Margin: auto;
+}
+
+#joke p {
