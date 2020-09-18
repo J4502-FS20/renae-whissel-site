@@ -7,13 +7,13 @@ Body {
 h1 {
   font-size: 50px;
   color:#521945;
+  background-color:#EDD8D6;
   font-weight: bold;
   font-family: 'Handlee', cursive;
 }
 
 h2 {
   color:#B0431C;
-  background-color:#EDD8D6;
   font-weight: bold;
   font-family: 'Lora', serif;
 }
