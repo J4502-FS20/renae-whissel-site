@@ -9,12 +9,13 @@ h1 {
     font-size: 50px;
     color:#BD908B;
     font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
   }
 }
 h2, h3 {
   color:#BD908B;
   font-weight: bold;
-  font-family: "Times New Roman", Times, serif;
+  font-family: 'Lora', serif;
 }
 
 p {
@@ -29,9 +30,10 @@ ul {
 }
 
 img {
-  width:50%;
-  min-width: 250px;
-  max-width: 450px
+  width:25%;
+  min-width:300px;
+  max-width: 600px;
+  border:none;
 }
 
 #joke {
