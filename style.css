@@ -24,7 +24,9 @@ nav {
 .container {
   max-width: 500px;
   @media (min-width: 800px) {
-    max-width: 750px;
+    flex: 0 0 50%;
+    order: 2;
+    text-align: left;
   }
 
 h2 {
