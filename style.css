@@ -15,8 +15,10 @@ h1 {
 
 nav {
   display: flex;
+  justify-content: flex-start;
+  justify-content: flex-end;
+  justify-content: center;
   justify-content: space-around;
-  flex-wrap: wrap;
   padding:5px;
   background-color:#EDD8D6;
 }
