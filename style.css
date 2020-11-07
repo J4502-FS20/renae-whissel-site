@@ -18,7 +18,8 @@ nav {
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
-    padding:5px;
+  padding:5px;
+  background-color:#EDD8D6;
 }
 
 h2 {
