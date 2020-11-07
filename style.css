@@ -21,6 +21,7 @@ nav {
   justify-content: space-around;
   padding:5px;
   background-color:#EDD8D6;
+  width: 100vw;
 }
 
 h2 {
