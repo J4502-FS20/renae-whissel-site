@@ -19,6 +19,7 @@ nav {
   flex-flow: row;
   justify-content: space-around;
   flex-wrap: wrap;
+    padding:5px;
 }
 
 h2 {
