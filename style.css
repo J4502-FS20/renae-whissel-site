@@ -1,8 +1,8 @@
 Body {
   background-color:#FAE8CF;
   font-family: 'Montserrat', sans-serif;
-  display: flex;
-  text-align: center;
+    display: flex;
+    justify-content: center;
 }
 
 h1 {
@@ -34,9 +34,6 @@ p {
 
 ul {
     List-style-type: none;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
 }
 
 img {
