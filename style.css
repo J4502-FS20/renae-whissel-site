@@ -21,14 +21,6 @@ nav {
   background-color:#EDD8D6;
 }
 
-.container {
-@media screen and (max-width: 600px) {
-    display: flex;
-    flex-wrap: wrap;
-    flex-flow: column;
-    text-align: left;
-  }
-
 h2 {
   color:#B0431C;
   font-weight: bold;
