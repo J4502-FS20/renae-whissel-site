@@ -34,6 +34,9 @@ p {
 
 ul {
     List-style-type: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 img {
