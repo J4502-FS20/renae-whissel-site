@@ -1,8 +1,7 @@
 Body {
-  background-color:#FAE8CF;
-  font-family: 'Montserrat', sans-serif;
-    display: flex;
-    justify-content: center;
+    background-color:#FAE8CF;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
 }
 
 h1 {
