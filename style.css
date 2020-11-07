@@ -7,7 +7,6 @@ Body {
 h1 {
   font-size: 50px;
   color:#521945;
-  background-color:#EDD8D6;
   font-weight: bold;
   font-family: 'Handlee', cursive;
   display: flex;
@@ -21,6 +20,12 @@ nav {
   padding:5px;
   background-color:#EDD8D6;
 }
+
+.container {
+  max-width: 500px;
+  @media (min-width: 800px) {
+    max-width: 750px;
+  }
 
 h2 {
   color:#B0431C;
