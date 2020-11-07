@@ -80,5 +80,6 @@ a:hover {
 {
   nav {
     flex-direction: column;
+    flex-flow: column;
   }
 }
